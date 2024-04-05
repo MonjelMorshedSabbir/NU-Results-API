@@ -1,0 +1,170 @@
+[
+    {
+        "isActive": "TRUE",
+        "canPrint": "TRUE",
+        "canRedirect": "FALSE",
+        "title": "Honours 1st Year\nResult-2022 (1)",
+        "logoUrl": "https://cdn.textstudio.com/output/sample/normal/9/5/6/5/result-logo-860-5659.png",
+        "url": "http://www.nubd.info/results/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "TRUE",
+        "canRedirect": "FALSE",
+        "title": "Honours 1st Year\nResult-2022 (2)",
+        "logoUrl": "https://cdn.textstudio.com/output/sample/normal/9/5/6/5/result-logo-860-5659.png",
+        "url": "http://results.nu.ac.bd/results_latest/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "From Fill-up",
+        "logoUrl": "https://i.postimg.cc/9FLssGWx/from.png",
+        "url": "http://nubd.info/formfillup/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Admit Card",
+        "logoUrl": "https://i.postimg.cc/7Zbj4fhq/admit-Card.png",
+        "url": "https://www.nu.ac.bd/admit/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Student Login",
+        "logoUrl": "https://i.postimg.cc/tJ58q6F4/student-Login.png",
+        "url": "http://ems.nu.ac.bd/student-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "College Login",
+        "logoUrl": "https://i.postimg.cc/7LPR99JP/Login.png",
+        "url": "http://ems.nu.ac.bd/c-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "College User Login",
+        "logoUrl": "https://i.postimg.cc/7LPR99JP/Login.png",
+        "url": "http://ems.nu.ac.bd/cu-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Admission",
+        "logoUrl": "https://i.postimg.cc/6pSgpt4n/admission.png",
+        "url": "http://admission.nu.edu.bd/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Recent Notice",
+        "logoUrl": "https://i.postimg.cc/qMJ9mmdh/notice2.png",
+        "url": "https://www.nu.ac.bd/recent-news-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Examination Notice",
+        "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
+        "url": "https://www.nu.ac.bd/examination-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Admission Notice",
+        "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
+        "url": "https://www.nu.ac.bd/admission-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "General Notice",
+        "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
+        "url": "https://www.nu.ac.bd/notice-general.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Important Notice",
+        "logoUrl": "https://i.postimg.cc/qMJ9mmdh/notice2.png",
+        "url": "http://admission.nu.edu.bd/notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Download Form & Instruction",
+        "logoUrl": "https://i.postimg.cc/qMJ9mmdh/notice2.png",
+        "url": "https://www.nu.ac.bd/download-form-instruction.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Honors CGPA Calculator",
+        "logoUrl": "https://i.postimg.cc/d0ZM2Lc5/calculator.png",
+        "url": "https://gpacalculatorbd.com/honours-cgpa-calculator/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Degree CGPA Calculator",
+        "logoUrl": "https://i.postimg.cc/d0ZM2Lc5/calculator.png",
+        "url": "https://gpacalculatorbd.com/degree-cgpa-calculator/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Honors Syllabus",
+        "logoUrl": "https://i.postimg.cc/MHxhJ5ML/result.png",
+        "url": "https://www.nu.ac.bd/syllabus-honours.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Degree Syllabus",
+        "logoUrl": "https://i.postimg.cc/MHxhJ5ML/result.png",
+        "url": "https://www.nu.ac.bd/syllabus-degree-pass.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Grading System",
+        "logoUrl": "https://i.postimg.cc/rm5vH3mW/ranking.png",
+        "url": "https://sites.google.com/view/nuresultsapp/grading"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Official Website",
+        "logoUrl": "https://i.postimg.cc/s2kkwsVs/web.png",
+        "url": "https://www.nu.ac.bd/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Official Website 2",
+        "logoUrl": "https://i.postimg.cc/s2kkwsVs/web.png",
+        "url": "http://nubd.info/"
+    }
+]
