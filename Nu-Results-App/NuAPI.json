@@ -5,14 +5,14 @@
   "message1": "Get results 50% faster, even during server overload",
   "credit": "Rate us on Google Play ☝️",
   "gpaCalculator": {
-    "subAddLimit": 35,
-    "subLimitExText": "You are currently limited to calculating GPA for a maximum of 35 subjects."
+    "subAddLimit": 30,
+    "subLimitExText": "You are currently limited to calculating GPA for a maximum of 30 subjects."
   },
   "info": {
     "is-Show-Info Explain": "When isShowInfo is true, the info feature is visible; otherwise, it's hidden.",
     "isShowInfo": true,
     "is-Shuffle-List Explain": "List shuffles if true.",
-    "isShuffleList": false,
+    "isShuffleList": true,
     "infoUrl": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json",
     "infoUrlDebug": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json"
   }
