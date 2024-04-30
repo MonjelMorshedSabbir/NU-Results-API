@@ -114,22 +114,6 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "TRUE",
-        "title": "Honors CGPA Calculator",
-        "logoUrl": "https://i.postimg.cc/d0ZM2Lc5/calculator.png",
-        "url": "https://gpacalculatorbd.com/honours-cgpa-calculator/"
-    },
-    {
-        "isActive": "TRUE",
-        "canPrint": "FALSE",
-        "canRedirect": "TRUE",
-        "title": "Degree CGPA Calculator",
-        "logoUrl": "https://i.postimg.cc/d0ZM2Lc5/calculator.png",
-        "url": "https://gpacalculatorbd.com/degree-cgpa-calculator/"
-    },
-    {
-        "isActive": "TRUE",
-        "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Honors Syllabus",
         "logoUrl": "https://i.postimg.cc/MHxhJ5ML/result.png",
