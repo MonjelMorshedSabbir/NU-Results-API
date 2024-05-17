@@ -1,19 +1,11 @@
 [
     {
         "isActive": "TRUE",
-        "canPrint": "TRUE",
-        "canRedirect": "FALSE",
-        "title": "First Year Result (Link-1)",
+        "canPrint": "true",
+        "canRedirect": "false",
+        "title": "Latest Published Results",
         "logoUrl": "https://i.postimg.cc/3xYtTkHL/Search-Result.png",
         "url": "http://www.nubd.info/results/"
-    },
-    {
-        "isActive": "TRUE",
-        "canPrint": "TRUE",
-        "canRedirect": "FALSE",
-        "title": "First Year Result (Link-2)",
-        "logoUrl": "https://i.postimg.cc/3xYtTkHL/Search-Result.png",
-        "url": "http://results.nu.ac.bd/results_latest/"
     },
     {
         "isActive": "TRUE",

@@ -12,7 +12,7 @@
     "is-Show-Info Explain": "When isShowInfo is true, the info feature is visible; otherwise, it's hidden.",
     "isShowInfo": true,
     "is-Shuffle-List Explain": "List shuffles if true.",
-    "isShuffleList": false,
+    "isShuffleList": true,
     "infoUrl": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json",
     "infoUrlDebug": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json"
   }
