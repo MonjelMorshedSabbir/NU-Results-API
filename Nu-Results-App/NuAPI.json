@@ -1,9 +1,9 @@
 {
   "appName": "NU Result - BD 2024",
-  "minVersion": 9,
+  "minVersion": 1,
   "isAppActive": true,
   "canReferWebToChrome": true,
-  "newsMarque": "সাম্প্রতিক আপডেটে একটি বাগ পরিলক্ষিত হয়েছে,এটি সংশোধন করতে কাজ চলছে। এখনই অ্যাপটি আপডেট করবেন না অনুগ্রহ করে। সমস্যা সংশোধন করার পরে, আমরা আপনাকে অ্যাপটি আপডেট করার জন্য অবহিত করব। আমরা আপনাদের কাছে বিরক্তির জন্য দুঃখিত।",
+  "newsMarque": "",
   "message1": "Get results 50% faster, even during server overload",
   "credit": "Rate us on Google Play ☝️",
   "gpaCalculator": {
