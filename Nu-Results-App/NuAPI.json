@@ -2,13 +2,19 @@
   "appName": "NU Result - BD 2024",
   "minVersion": 1,
   "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
-  "reportingHours":12,
+  "reportingHours":2,
   "isAppActive": true,
   "canReferWebToChrome": true,
   "newsMarque": "Your preference for our app over traditional web browsing reflects your smart choice. We value your feedback to help us enhance our services and add more features. Please note, the speed of result retrieval depends on the National University server conditions. Your constructive feedback is greatly appreciated.",
   "message1": "Get results 50% faster, even during server overload",
   "reportingURL":"https://script.google.com/macros/s/AKfycbzpM8gtev7CdH3nCz3z5JRMtkOlFze38ZGVwqduj94jzzgU33VJaj4Zn7j25XGaHeML/exec",
-  "credit": "Rate us on Google Play ☝️",
+  "credit": "You can complain issue 👆 & Rate us ☝",
+  "banner":{
+    "imageURLExplain":"if this is empty then banner Imageview will not be shown else lottie banner will be gone",
+    "imageURL":"https://i.postimg.cc/xdCMRpRn/4th-logo-01.png",
+    "actionExplain": "When action is a url app will redirect to the specified url",
+    "action":"NU Result"
+  },
   "gpaCalculator": {
     "subAddLimit": 32,
     "subLimitExText": "You are currently limited to calculating GPA for a maximum of 32 subjects."
@@ -17,7 +23,7 @@
     "is-Show-Info Explain": "When isShowInfo is true, the info feature is visible; otherwise, it's hidden.",
     "isShowInfo": true,
     "is-Shuffle-List Explain": "List shuffles if true.",
-    "isShuffleList": true,
+    "isShuffleList": false,
     "infoUrl": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json",
     "infoUrlDebug": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json"
   }
