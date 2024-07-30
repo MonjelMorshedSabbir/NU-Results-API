@@ -11,7 +11,7 @@
   "credit": "You can complain issue 👆 & Rate us ☝",
   "banner":{
     "imageURLExplain":"Displays Lottie for empty image URL, otherwise shows image. Center crops non-.png images.",
-    "imageURL":"https://i.postimg.cc/ydbMKhH9/Red.png",
+    "imageURL":"https://i.postimg.cc/rpB7VC06/our-Blood-Red.jpg",
     "actionExplain": "Redirects to the provided URL if valid, otherwise displays as a toast. Ignores empty or null actions.",
     "action":""
   },
