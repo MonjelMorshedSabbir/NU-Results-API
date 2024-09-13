@@ -38,7 +38,11 @@
       "INTERVAL_EXPLORATION":"Interval time to display the next ad",
       "bannerIntervalSec":15,
       "nativeIntervalSec":15,
-      "interstitialIntervalSec":20
+      "interstitialIntervalSec":20,
+      "nativeAD":{
+        "firstPlacementAt": 2,
+        "placementAtEvery":5
+      }
     },
     "facebook":{
       "isShowFacebookAds":true,
