@@ -26,5 +26,25 @@
     "isShuffleList": false,
     "infoUrl": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json",
     "infoUrlDebug": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json"
+  },
+  "ads":{
+    "is-show-ads Explain": "When isShowAds is true, the ads feature is visible; otherwise, it's hidden.",
+    "isShowAds": false,
+    "settings":{
+      "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
+      "bannerClickLimit":2,
+      "nativeClickLimit":3,
+      "interstitialClickLimit":1,
+      "INTERVAL_EXPLORATION":"Interval time to display the next ad",
+      "bannerIntervalSec":15,
+      "nativeIntervalSec":15,
+      "interstitialIntervalSec":20
+    },
+    "facebook":{
+      "isShowFacebookAds":true,
+      "bannerID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "nativeID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitialID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    }
   }
 }
