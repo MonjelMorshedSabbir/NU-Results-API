@@ -33,12 +33,8 @@
     "settings":{
       "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
       "bannerClickLimit":2,
-      "nativeClickLimit":3,
-      "interstitialClickLimit":1,
-      "INTERVAL_EXPLORATION":"Interval time to display the next ad",
-      "bannerIntervalSec":15,
-      "nativeIntervalSec":15,
-      "interstitialIntervalSec":20,
+      "INTERVAL_EXPLAIN":"Interval time to display the next ad",
+      "interstitialIntervalSec":30,
       "nativeAD":{
         "firstPlacementAt": 2,
         "placementAtEvery":5
