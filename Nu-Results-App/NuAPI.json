@@ -42,9 +42,9 @@
     },
     "facebook":{
       "isShowFacebookAds":true,
-      "bannerID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "nativeID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "interstitialID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "bannerID":"9124677524215085_9124735630875941",
+      "nativeID":"9124677524215085_9124742904208547",
+      "interstitialID":"9124677524215085_9124739960875508"
     }
   }
 }
