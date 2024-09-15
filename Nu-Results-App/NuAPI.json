@@ -29,7 +29,7 @@
   },
   "ads":{
     "is-show-ads Explain": "When isShowAds is true, the ads feature is visible; otherwise, it's hidden.",
-    "isShowAds": true,
+    "isShowAds": false,
     "settings":{
       "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
       "bannerClickLimit":2,
