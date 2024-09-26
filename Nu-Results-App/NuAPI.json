@@ -7,7 +7,7 @@
   "canReferWebToChrome": true,
   "newsMarque": "You're smart to choose our app! Feedback helps us improve. Result speed depends on server load. Thanks for your input.",
   "message1": "Get results 50% faster, even during server overload",
-  "reportingURL":"https://script.google.com/macros/s/AKfycbzpM8gtev7CdH3nCz3z5JRMtkOlFze38ZGVwqduj94jzzgU33VJaj4Zn7j25XGaHeML/exec",
+  "reportingURL":"https://script.google.com/macros/s/AKfycbzjBIasl4C6ljkAzlwOJY8enaezbDYFFw4HGxhdrYThabbyR_2FPPR_jBbeAJIgTzV3/exec",
   "credit": "You can complain issue 👆 & Rate us ☝",
   "banner":{
     "imageURLExplain":"Displays Lottie for empty image URL, otherwise shows image. Center crops non-.png images.",
