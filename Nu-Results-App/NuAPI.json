@@ -1,8 +1,8 @@
 {
   "appName": "NU Result - BD 2024",
-  "minVersion": 10,
+  "minVersion": 12,
   "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
-  "reportingHours":1,
+  "reportingHours":6,
   "isAppActive": true,
   "canReferWebToChrome": true,
   "newsMarque": "You're smart to choose our app! Feedback helps us improve. Result speed depends on server load. Thanks for your input.",
@@ -29,7 +29,7 @@
   },
   "ads":{
     "is-show-ads Explain": "When isShowAds is true, the ads feature is visible; otherwise, it's hidden.",
-    "isShowAds": false,
+    "isShowAds": true,
     "settings":{
       "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
       "bannerClickLimit":2,
