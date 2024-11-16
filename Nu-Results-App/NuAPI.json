@@ -1,6 +1,6 @@
 {
   "appName": "NU Result - BD 2024",
-  "minVersion": 12,
+  "minVersion": 10,
   "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
   "reportingHours":6,
   "isAppActive": true,
