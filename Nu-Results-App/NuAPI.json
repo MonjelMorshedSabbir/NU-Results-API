@@ -31,6 +31,8 @@
     "is-show-ads Explain": "When isShowAds is true, the ads feature is visible; otherwise, it's hidden.",
     "isShowAds": true,
     "settings":{
+      "priority-Explain": "1 is facebook, 2 is admob",
+      "priority":2,
       "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
       "bannerClickLimit":2,
       "INTERVAL_EXPLAIN":"Interval time to display the next ad",
