@@ -2,18 +2,18 @@
   "appName": "NU Result - BD 2024",
   "minVersion": 10,
   "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
-  "reportingHours":6,
+  "reportingHours": 6,
   "isAppActive": true,
   "canReferWebToChrome": true,
   "newsMarque": "You're smart to choose our app! Feedback helps us improve. Result speed depends on server load. Thanks for your input.",
   "message1": "Get results 50% faster, even during server overload",
-  "reportingURL":"https://script.google.com/macros/s/AKfycbzjBIasl4C6ljkAzlwOJY8enaezbDYFFw4HGxhdrYThabbyR_2FPPR_jBbeAJIgTzV3/exec",
+  "reportingURL": "https://script.google.com/macros/s/AKfycbzjBIasl4C6ljkAzlwOJY8enaezbDYFFw4HGxhdrYThabbyR_2FPPR_jBbeAJIgTzV3/exec",
   "credit": "You can complain issue 👆 & Rate us ☝",
-  "banner":{
-    "imageURLExplain":"Displays Lottie for empty image URL, otherwise shows image. Center crops non-.png images.",
-    "imageURL":"https://i.postimg.cc/xdCMRpRn/4th-logo-01.png",
+  "banner": {
+    "imageURLExplain": "Displays Lottie for empty image URL, otherwise shows image. Center crops non-.png images.",
+    "imageURL": "https://i.postimg.cc/xdCMRpRn/4th-logo-01.png",
     "actionExplain": "Redirects to the provided URL if valid, otherwise displays as a toast. Ignores empty or null actions.",
-    "action":""
+    "action": ""
   },
   "gpaCalculator": {
     "subAddLimit": 32,
@@ -27,32 +27,32 @@
     "infoUrl": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json",
     "infoUrlDebug": "https://monjelmorshedsabbir.github.io/NU-Results-API/Nu-Results-App/NuInformationAPI.json"
   },
-  "ads":{
+  "ads": {
     "is-show-ads Explain": "When isShowAds is true, the ads feature is visible; otherwise, it's hidden.",
     "isShowAds": true,
-    "settings":{
+    "settings": {
       "priority-Explain": "1 is facebook, 2 is admob",
-      "priority":2,
-      "LIMIT_EXPLAIN":"If limit exceed then ad will not load more than",
-      "bannerClickLimit":2,
-      "INTERVAL_EXPLAIN":"Interval time to display the next ad",
-      "interstitialIntervalSec":30,
-      "nativeAD":{
+      "priority": 2,
+      "LIMIT_EXPLAIN": "If limit exceed then ad will not load more than",
+      "bannerClickLimit": 2,
+      "INTERVAL_EXPLAIN": "Interval time to display the next ad",
+      "interstitialIntervalSec": 30,
+      "nativeAD": {
         "firstPlacementAt": 2,
-        "placementAtEvery":5
+        "placementAtEvery": 5
       }
     },
-    "facebook":{
-      "isShowFacebookAds":true,
-      "bannerID":"9124677524215085_9124735630875941",
-      "nativeID":"9124677524215085_9124742904208547",
-      "interstitialID":"9124677524215085_9124739960875508"
+    "facebook": {
+      "isShowFacebookAds": false,
+      "bannerID": "9124677524215085_9124735630875941",
+      "nativeID": "9124677524215085_9124742904208547",
+      "interstitialID": "9124677524215085_9124739960875508"
     },
-    "admob":{
-      "isShowAdmobAds":true,
-      "bannerID":"ca-app-pub-5412524324612459/8642875029",
-      "nativeID":"ca-app-pub-5412524324612459/3172163718",
-      "interstitialID":"ca-app-pub-5412524324612459/4324356060"
+    "admob": {
+      "isShowAdmobAds": true,
+      "bannerID": "ca-app-pub-5412524324612459/8642875029",
+      "nativeID": "ca-app-pub-5412524324612459/3172163718",
+      "interstitialID": "ca-app-pub-5412524324612459/4324356060"
     }
   }
 }
