@@ -9,7 +9,7 @@
   "message1": "Get results 50% faster, even during server overload",
   "message1Emplain": "This will be shown in the method 1",
   "reportingURL": "https://script.google.com/macros/s/AKfycbzjBIasl4C6ljkAzlwOJY8enaezbDYFFw4HGxhdrYThabbyR_2FPPR_jBbeAJIgTzV3/exec",
-  "credit": "You can complain issue 👆 & Rate us ☝",
+  "credit": "Share, review policy, report issues, or rate us.",
   "banner": {
     "imageURLExplain": "Displays Lottie for empty image URL, otherwise shows image. Center crops non-.png images.",
     "imageURL": "https://i.postimg.cc/xdCMRpRn/4th-logo-01.png",
