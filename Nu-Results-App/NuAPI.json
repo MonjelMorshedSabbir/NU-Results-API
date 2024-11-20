@@ -15,6 +15,11 @@
     "actionExplain": "Redirects to the provided URL if valid, otherwise displays as a toast. Ignores empty or null actions.",
     "action": ""
   },
+  "methods":{
+    "methodActive":1,
+    "methodActiveExplain": "Choose the method to get results. 1: API, 2: Manual, 3 or anything -> Default both will be active",
+    "method2URL": ""
+  },
   "gpaCalculator": {
     "subAddLimit": 32,
     "subLimitExText": "You are currently limited to calculating GPA for a maximum of 32 subjects."
@@ -36,7 +41,7 @@
       "LIMIT_EXPLAIN": "If limit exceed then ad will not load more than",
       "bannerClickLimit": 2,
       "INTERVAL_EXPLAIN": "Interval time to display the next ad",
-      "interstitialIntervalSec": 30,
+      "interstitialIntervalSec": 60,
       "nativeAD": {
         "firstPlacementAt": 2,
         "placementAtEvery": 5
