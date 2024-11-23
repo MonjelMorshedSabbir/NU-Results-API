@@ -43,12 +43,12 @@
       "bannerClickLimit": 2,
       "INTERVAL_EXPLAIN": "Interval time to display the next ad",
       "interstitialIntervalSec": 60,
+      "isShowMainExplain":"Shows an interstitial ad in MainActivity on resume only when both `isReturningFromAnotherActivity` (in-app) and `isShowMainAcInterstitial` (API) are true.",
+      "isShowMainAcInterstitial": true,
       "nativeAD": {
         "firstPlacementAt": 2,
         "placementAtEvery": 5
-      },
-      "isShowMainExplain":"Shows an interstitial ad in MainActivity on resume only when both `isReturningFromAnotherActivity` (in-app) and `isShowMainAcInterstitial` (API) are true.",
-      "isShowMainAcInterstitial": true
+      }
     },
     "facebook": {
       "isShowFacebookAds": true,
