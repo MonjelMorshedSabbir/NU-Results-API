@@ -16,8 +16,8 @@
     "actionExplain": "Redirects to the provided URL if valid, otherwise displays as a toast. Ignores empty or null actions.",
     "action": ""
   },
-  "methods":{
-    "activeMethod":2,
+  "methods": {
+    "activeMethod": 2,
     "activeMethodExplain": "Choose the method to get results. 1: API, 2: Manual, 3 or anything -> Default both will be active",
     "method2URL": "http://results.nu.ac.bd/index_cp.php"
   },
@@ -46,7 +46,9 @@
       "nativeAD": {
         "firstPlacementAt": 2,
         "placementAtEvery": 5
-      }
+      },
+      "isShowMainExplain":"Shows an interstitial ad in MainActivity on resume only when both `isReturningFromAnotherActivity` (in-app) and `isShowMainAcInterstitial` (API) are true.",
+      "isShowMainAcInterstitial": true
     },
     "facebook": {
       "isShowFacebookAds": true,
