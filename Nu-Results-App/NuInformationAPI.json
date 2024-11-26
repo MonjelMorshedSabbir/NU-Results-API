@@ -1,5 +1,15 @@
 [
     {
+        "explainIsActive":"If the object is active (true) and URL not empty, it will be added to the list.",
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "explainCanRedirect":"Can redirect will move user to chrome or other browser",
+        "canRedirect": "true",
+        "title": "View All Results",
+        "logoUrl": "https://i.postimg.cc/3xYtTkHL/Search-Result.png",
+        "url": "www.nu.ac.bd/results/"
+    },
+    {
         "isActive": "TRUE",
         "canPrint": "true",
         "canRedirect": "false",
