@@ -4,15 +4,15 @@
         "isActive": "TRUE",
         "canPrint": "FALSE",
         "explainCanRedirect":"Can redirect will move user to chrome or other browser",
-        "canRedirect": "true",
+        "canRedirect": "TRUE",
         "title": "View All Results",
         "logoUrl": "https://i.postimg.cc/3xYtTkHL/Search-Result.png",
         "url": "www.nu.ac.bd/results/"
     },
     {
         "isActive": "TRUE",
-        "canPrint": "true",
-        "canRedirect": "false",
+        "canPrint": "TRUE",
+        "canRedirect": "FALSE",
         "title": "Latest Published Results",
         "logoUrl": "https://i.postimg.cc/3xYtTkHL/Search-Result.png",
         "url": "http://www.nubd.info/results/"
