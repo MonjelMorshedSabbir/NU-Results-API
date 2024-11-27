@@ -19,7 +19,7 @@
   "methods": {
     "activeMethod": 3,
     "activeMethodExplain": "Choose the method to get results. 1: API, 2: Manual, 3 or anything -> Default both will be active (http://results.nu.ac.bd/index_cp.php)",
-    "method2URL": "https://www.nu.ac.bd/results/"
+    "method2URL": "http://results.nu.ac.bd/index_cp.php"
   },
   "gpaCalculator": {
     "subAddLimit": 32,
