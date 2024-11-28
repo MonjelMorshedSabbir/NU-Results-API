@@ -51,7 +51,7 @@
       }
     },
     "facebook": {
-      "isShowFacebookAds": true,
+      "isShowFacebookAds": false,
       "bannerID": "9124677524215085_9124735630875941",
       "nativeID": "9124677524215085_9124742904208547",
       "interstitialID": "9124677524215085_9124739960875508"
