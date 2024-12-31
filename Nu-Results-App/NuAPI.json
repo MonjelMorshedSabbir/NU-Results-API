@@ -3,7 +3,7 @@
   "minVersion": 16,
   "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
   "reportingHours": 6,
-  "isAppActive": true,
+  "isAppActive": false,
   "canReferWebToChrome": true,
   "newsMarque": "If both methods 1 and 2 fail, try the 'Information Hub' > 'View All Results' option.",
   "message1": "If Method 1 fails, try using Method 2 once.",
