@@ -20,7 +20,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "From Fill-up",
         "logoUrl": "https://i.postimg.cc/9FLssGWx/from.png",
         "url": "http://nubd.info/formfillup/"
@@ -28,7 +28,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Admit Card",
         "logoUrl": "https://i.postimg.cc/7Zbj4fhq/admit-Card.png",
         "url": "https://www.nu.ac.bd/admit/"
@@ -36,7 +36,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Student Login",
         "logoUrl": "https://i.postimg.cc/tJ58q6F4/student-Login.png",
         "url": "http://ems.nu.ac.bd/student-login"
@@ -60,7 +60,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Admission",
         "logoUrl": "https://i.postimg.cc/6pSgpt4n/admission.png",
         "url": "http://admission.nu.edu.bd/"
@@ -76,7 +76,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Examination Notice",
         "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
         "url": "https://www.nu.ac.bd/examination-notice.php"
@@ -84,7 +84,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Admission Notice",
         "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
         "url": "https://www.nu.ac.bd/admission-notice.php"
@@ -92,7 +92,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "General Notice",
         "logoUrl": "https://i.postimg.cc/fWjGjG1Q/notice1.png",
         "url": "https://www.nu.ac.bd/notice-general.php"
@@ -100,7 +100,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Important Notice",
         "logoUrl": "https://i.postimg.cc/qMJ9mmdh/notice2.png",
         "url": "http://admission.nu.edu.bd/notice.php"
@@ -108,7 +108,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Download Form & Instruction",
         "logoUrl": "https://i.postimg.cc/qMJ9mmdh/notice2.png",
         "url": "https://www.nu.ac.bd/download-form-instruction.php"
@@ -116,7 +116,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Honors Syllabus",
         "logoUrl": "https://i.postimg.cc/MHxhJ5ML/result.png",
         "url": "https://www.nu.ac.bd/syllabus-honours.php"
@@ -124,7 +124,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Degree Syllabus",
         "logoUrl": "https://i.postimg.cc/MHxhJ5ML/result.png",
         "url": "https://www.nu.ac.bd/syllabus-degree-pass.php"
