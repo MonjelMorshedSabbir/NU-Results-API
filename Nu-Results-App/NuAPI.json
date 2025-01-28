@@ -1,8 +1,8 @@
 {
   "appName": "NU Result - BD 2025",
   "minVersion": 16,
-  "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report",
-  "reportingHours": 6,
+  "reportingHoursExplained": "This the the complain interval time in hour, after the reporting hours user can submit another report || This is also using as 'minutes' for interval of background web loading for permission granted",
+  "reportingHours": 5,
   "isAppActive": true,
   "canReferWebToChrome": true,
   "newsMarque": "This app isn’t affiliated with National University. Data is sourced publicly.",
